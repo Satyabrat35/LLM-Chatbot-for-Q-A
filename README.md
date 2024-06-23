@@ -8,7 +8,7 @@ QA Chatbot Package with Specific Persona Models using Base HF models, LoRA fine-
 
 | Helper | Page |
 | ------ | ------ |
-| Setup Environment and Integrations | [Wiki](https://github.com/vanshigupta04/Persona-LLM-Chatbot-For-QA/wiki/Setup-Repository) |
+| Setup Environment and Integrations | [Wiki](https://github.com/Satyabrat35/LLM-Chatbot-for-Q-A/wiki/Setup-Repository) |
 
 ***
 
